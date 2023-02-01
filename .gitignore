@@ -199,3 +199,4 @@ ipcam/api/upload/*
 
 /HotelManagement_Api/.vs/ProjectEvaluation/hotelmanagement_api.metadata.v5.2
 /HotelManagement_Api/.vs
+/HotelManagement.Api/appsettings.json
